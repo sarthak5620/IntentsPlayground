@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IntentsPlayground</string>
+    <string name="incBtn">+</string>
+    <string name="explicit_content">Explicit Content</string>
+    <string name="decBtn">-</string>
+    <string name="qty">0</string>
+    <string name="My_counter">My Counter</string>
+    <string name="button">OPEN MAIN ACTIVITY</string>
+    <string name="implicit_content">Implicit Content</string>
+    <string name="data">Data</string>
+    <string name="openWebpage">Open Webpage</string>
+    <string name="DialNumber">Dial Number</string>
+    <string name="ShareText">Share Text</string>
+    <string name="button1">GO</string>
+    <string name="SendReceivedData">Sending And Receiving Data</string>
+    <string name="button2">SEND</string>
+    <string name="qty1">0</string>
+    <string name="send_back">SEND BACK</string>
+    <string name="textView4">TextView</string>
+</resources>
